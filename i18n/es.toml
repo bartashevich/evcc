@@ -100,6 +100,8 @@ remove = "Quitar"
 save = "Guardar"
 telemetry = "Telemetría"
 title = "Título"
+showAdvancedSettings = "Mostrar configuración avanzada"
+hideAdvancedSettings = "Ocultar configuración avanzada"
 
 [config.grid]
 title = "Contador de red"
