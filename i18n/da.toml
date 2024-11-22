@@ -100,6 +100,8 @@ remove = "Fjern"
 save = "Gem"
 telemetry = "Telemetri"
 title = "Titel"
+hideAdvancedSettings = "Skjul avancerede indstillinger"
+showAdvancedSettings = "Vis avancerede indstillinger"
 
 [config.grid]
 title = "Elnet-måler"
