@@ -98,6 +98,8 @@ remove = "Eltávolítás"
 save = "Mentés"
 telemetry = "Telemetria"
 title = "Cím"
+hideAdvancedSettings = Speciális beállítások elrejtése
+showAdvancedSettings = Speciális beállítások megjelenítése
 
 [config.grid]
 title = "Hálózati mérő"
