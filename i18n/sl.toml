@@ -100,6 +100,8 @@ remove = "Odstrani"
 save = "Shrani"
 telemetry = "Telemetrija"
 title = "Naslov"
+hideAdvancedSettings = "Skrij napredne nastavitve"
+showAdvancedSettings = "Prikaži napredne nastavitve"
 
 [config.grid]
 title = "Omrežni meter"
