@@ -100,6 +100,8 @@ remove = "Verwijderen"
 save = "Opslaan"
 telemetry = "Telemetrie"
 title = "Titel"
+hideAdvancedSettings = "Verberg geavanceerde instellingen"
+showAdvancedSettings = "Toon geavanceerde instellingen"
 
 [config.grid]
 title = "Netmeter"
